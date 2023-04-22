@@ -53,5 +53,4 @@ License
 
 
 
-
  [snap]: https://oss.sonatype.org/content/repositories/snapshots/
